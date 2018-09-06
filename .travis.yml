@@ -2,7 +2,7 @@ addons:
     sonarcloud:
         organization: "liferay-hu" # the key of the org you chose at step #3
     token:
-        secure: 58fa7cbc1d69f2f96234d26b6d52e51aa4836a42 # encrypted value of your token
+        secure: 53785c6d0a098e9dedf9cbcb26421d6467da1ca5 # encrypted value of your token
 
 jdk: oraclejdk8
 
